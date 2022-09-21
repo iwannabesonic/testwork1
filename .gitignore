@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+build_BurstDebugInformation_DoNotShip
+build_BackUpThisFolder_ButDontShipItWithYourGame
